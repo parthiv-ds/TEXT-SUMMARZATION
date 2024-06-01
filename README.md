@@ -1,4 +1,4 @@
-# End-to-end-Text-Summarizer
+# End-to-end-Text-Summarizer With Natural Language Processing
 # This is end to end pipeline for nlp project for text summarization 
 
 ## Workflows
